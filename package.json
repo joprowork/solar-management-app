@@ -1,5 +1,5 @@
 {
-  "name": "solarquote-pro",
+  "name": "solar-compagnon",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,7 +19,7 @@
     "chart.js": "^4.4.0",
     "date-fns": "^2.30.0",
     "html2canvas": "^1.4.1",
-    "jspdf": "^2.5.1",
+    "jspdf": "^2.5.2",
     "mapbox-gl": "^2.15.0",
     "next": "^14.0.0",
     "next-intl": "^3.0.0",
